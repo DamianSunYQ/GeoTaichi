@@ -1,3 +1,8 @@
+
+import sys
+sys.path.append('Geotaichi')
+from geotaichi import *
+
 from geotaichi import *
 
 init()
